@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         课堂派增强
 // @namespace    http://tampermonkey.net/
-// @version      3.4.1
+// @version      3.4.2
 // @description  看互动课件时，可用左右箭头翻页代替鼠标点击；看回放时，点击视频实现播放暂停，左右箭头快进快退，空格翻页
 // @author       han
 // @match        https://www.ketangpai.com/*
